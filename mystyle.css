@@ -1,0 +1,23 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+}
+
+html {
+	background: blue;
+}
+
+p {
+	text-align: center;
+	font-family: Arial;
+}
+
+.plays {
+    text-align: center;
+    color: red;
+    list-style-type: none;
+}
